@@ -1,2 +1,5 @@
 # ML-Assignment
-Kothuri Aparna,B201041,c3,rn-64
+Kothuri Aparna
+B201041
+class:-c3
+rn-64
